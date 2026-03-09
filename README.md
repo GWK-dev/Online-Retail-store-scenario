@@ -1,8 +1,12 @@
 # Online-Retail-store-scenario
 🏢 COMPANY: SwiftCart Logistics
+
 Role: Junior Data Analyst
+
 Task: 4-Week Monthly Performance Report
+
 You receive DAILY data for 4 weeks.
+
 Your job:
 •	Analyze each week individually
 •	Then compile a full month report
